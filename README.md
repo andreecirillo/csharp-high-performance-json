@@ -65,7 +65,7 @@ Combines `Span` with `yield return` to provide a single-pass, atomic transformat
 
 ## 📝 Blog Post
 I’ve written a detailed article explaining the "Why" and "How" of these optimizations on my blog:  
-🔗 **[Challenges - JSON Processing - C#](https://andreecirillo.hashnode.dev/challeges-json-processing-csharp)**
+🔗 **[Challenges - JSON Processing - C#](https://andreecirillo.hashnode.dev/challeges-jsonprocessing-csharp)**
 
 ---
 **André Cirillo** *Architect of Chaos | Software Engineer | Tech Lead*
