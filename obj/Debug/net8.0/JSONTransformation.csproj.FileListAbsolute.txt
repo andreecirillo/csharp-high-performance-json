@@ -1,0 +1,14 @@
+C:\Portfolio\JSONTransformation\bin\Debug\net8.0\JSONTransformation.exe
+C:\Portfolio\JSONTransformation\bin\Debug\net8.0\JSONTransformation.deps.json
+C:\Portfolio\JSONTransformation\bin\Debug\net8.0\JSONTransformation.runtimeconfig.json
+C:\Portfolio\JSONTransformation\bin\Debug\net8.0\JSONTransformation.dll
+C:\Portfolio\JSONTransformation\bin\Debug\net8.0\JSONTransformation.pdb
+C:\Portfolio\JSONTransformation\obj\Debug\net8.0\JSONTransformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Portfolio\JSONTransformation\obj\Debug\net8.0\JSONTransformation.AssemblyInfoInputs.cache
+C:\Portfolio\JSONTransformation\obj\Debug\net8.0\JSONTransformation.AssemblyInfo.cs
+C:\Portfolio\JSONTransformation\obj\Debug\net8.0\JSONTransformation.csproj.CoreCompileInputs.cache
+C:\Portfolio\JSONTransformation\obj\Debug\net8.0\JSONTransformation.dll
+C:\Portfolio\JSONTransformation\obj\Debug\net8.0\refint\JSONTransformation.dll
+C:\Portfolio\JSONTransformation\obj\Debug\net8.0\JSONTransformation.pdb
+C:\Portfolio\JSONTransformation\obj\Debug\net8.0\JSONTransformation.genruntimeconfig.cache
+C:\Portfolio\JSONTransformation\obj\Debug\net8.0\ref\JSONTransformation.dll
