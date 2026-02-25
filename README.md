@@ -68,4 +68,4 @@ I’ve written a detailed article explaining the "Why" and "How" of these optimi
 🔗 **[Challenges - JSON Processing - C#](https://andreecirillo.hashnode.dev/challeges-json-processing-csharp)**
 
 ---
-**Architect 44** 
+**André Cirillo** *Architect of Chaos | Software Engineer | Tech Lead*
